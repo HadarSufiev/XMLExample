@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Test>
+    <IdTest>1</IdTest>
+    <CourseName>aaa</CourseName>
+    <TestDate>1985-03-24T00:00:00</TestDate>
+  </Test>
+  <Test>
+    <IdTest>2</IdTest>
+    <CourseName>bbb</CourseName>
+    <TestDate>1985-04-20T00:00:00</TestDate>
+  </Test>
+  <Test>
+    <IdTest>3</IdTest>
+    <CourseName>ccc</CourseName>
+    <TestDate>1985-03-17T00:00:00</TestDate>
+  </Test>
+  <Test>
+    <IdTest>5</IdTest>
+    <CourseName>eee</CourseName>
+    <TestDate>1985-10-22T00:00:00</TestDate>
+  </Test>
+  <test>
+    <IdTest>999</IdTest>
+    <CourseName>oldone</CourseName>
+    <TestDate>24/05/1996 00:00:00</TestDate>
+  </test>
+</ArrayOfTest>
